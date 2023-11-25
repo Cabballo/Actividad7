@@ -2,8 +2,8 @@
     class dataConex {
         private $hostname = "localhost";
         private $dbname = "base23";
-        private $username = "Juan"; 
-        private $password = "Morad@123";
+        private $username = "root"; 
+        private $password = "Genshinpro10";
 
         public function conexion() {
             try {
